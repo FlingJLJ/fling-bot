@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/FlingJLJ/fling-bot#readme",
   "dependencies": {
-    "discord": "^0.8.2"
+    "discord.js": "^12.5.1"
   }
 }
