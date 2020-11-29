@@ -1,0 +1,22 @@
+{
+  "name": "fling-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlingJLJ/fling-bot.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/FlingJLJ/fling-bot/issues"
+  },
+  "homepage": "https://github.com/FlingJLJ/fling-bot#readme",
+  "dependencies": {
+    "discord": "^0.8.2"
+  }
+}
